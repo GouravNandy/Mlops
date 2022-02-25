@@ -3,7 +3,7 @@ MLopsdemo
 
 A demo for Mlops
 
-Project Organization
+Wafer Slicing project
 ------------
 
     ├── LICENSE
